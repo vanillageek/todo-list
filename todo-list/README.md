@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+#Just adding comments - 11 JUL 2024
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
